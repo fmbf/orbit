@@ -20,6 +20,10 @@ In Orbit, the following functionality should be available:
 This app will consist of a single screen with the game canvas and a simple footer.
 The footer will contain nav links to the Github ,my LinkedIn and a mute/unmute button.  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l3diTgXwccE4BKIAU/giphy.gif">
+</p>
+
 
 ### Architecture and Technologies
 

@@ -1,0 +1,26 @@
+body {
+	color: #bba077;
+}
+
+.world {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+
+footer {
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+	margin: auto;
+	padding: 10px;
+}
+
+footer button {
+	margin-right: 30px;
+}

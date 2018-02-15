@@ -1,5 +1,8 @@
+/* @import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono'); */
+
 body {
-	color: #bba077;
+	color: #ff5978;
+	font-family: 'Share Tech Mono';
 }
 
 .world {
@@ -23,4 +26,14 @@ footer {
 
 footer button {
 	margin-right: 30px;
+}
+
+
+.player-stats {
+	margin: 20px;
+}
+
+#playerHP {
+	font-size: 20px;
+	margin-top: 4px;
 }

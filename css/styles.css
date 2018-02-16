@@ -27,7 +27,6 @@ footer button {
 	margin-right: 30px;
 }
 
-
 .player-stats {
 	margin: 20px;
 }
@@ -47,12 +46,10 @@ footer button {
 }
 
 #retry {
-	/* z-index: 5; */
 	font-size: 30px;
 	display: none;
 }
 
 #retry:hover {
-	/* font-size: 50px; */
 	letter-spacing: 2px;
 }

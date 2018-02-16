@@ -1,6 +1,3 @@
-<h1 align="center">
-  ![Live - Demo](https://fmbf.github.io/orbit/)
-</h1>
 
 <h1 align="center"><strong>Orbit : The Game</strong></h1>
 <div align="center">
@@ -14,6 +11,9 @@
   and
   <code>Three.js</code>
 </div>
+<h2 align="center">
+  [Live-Demo](https://www.google.com "Orbit : The Game")
+</h2>
 
 <br/>
 
@@ -25,8 +25,8 @@
 
 ---
 
-## Project Timeline
-Orbit was coded over a 5 day period in February 2018, planned from wireframes through to each MVP:
+## Project Timeline & Design
+Orbit was coded over a 5 day period in February 2018, planned from wireframes through to each MVP.
 
 ![wireframes](https://github.com/fmbf/orbit/blob/master/docs/asteroids_wireframe.png)
 

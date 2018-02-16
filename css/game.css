@@ -17,12 +17,26 @@
 
 
 
-.world {
+#world {
+	z-index: 0;
 	position: absolute;
 	overflow: hidden;
 	width: 100%;
 	height: 100%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

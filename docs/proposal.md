@@ -19,7 +19,7 @@ In Orbit, the following functionality should be available:
 
 This app will consist of a single screen with the game canvas and a simple footer.
 The footer will contain nav links to the Github ,my LinkedIn and a mute/unmute button.  
-![wireframes](https://github.com/fmbf/orbit/blob/master/asteroids_wireframe.png)
+![wireframes](https://github.com/fmbf/orbit/blob/master/docs/asteroids_wireframe.png)
 
 ### Architecture and Technologies
 

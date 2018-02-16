@@ -12,7 +12,7 @@
   <code>Three.js</code>
 </div>
 
-[Live-Demo](https://www.google.com "Orbit : The Game")
+[Live-Demo](https://fmbf.github.io/orbit/ "Orbit : The Game")
 
 <br/>
 

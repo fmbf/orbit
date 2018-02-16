@@ -11,9 +11,8 @@
   and
   <code>Three.js</code>
 </div>
-<h2 align="center">
-  [Live-Demo](https://www.google.com "Orbit : The Game")
-</h2>
+
+[Live-Demo](https://www.google.com "Orbit : The Game")
 
 <br/>
 

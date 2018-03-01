@@ -36,4 +36,3 @@ Conceived as a `vanilla JS` project, Orbit was expanded to include the gorgeous 
 ## Future Plans
   + Duplicate the existing functionality to include "powerups" as a complement to the existing destructive asteroids.
   + Awesome 80s Synthy-Soundtrack!
-  

@@ -29,11 +29,47 @@ footer button {
 
 .player-stats {
 	margin: 20px;
+	/* border: 2px solid pink; */
+	/* display: flex; */
+	/* justify-content: space-between; */
+}
+
+
+
+#hp-parent-div {
+	/* display: flex; */
+	width: 200px;
+	/* height: 8px; */
+	border: 2px solid #fff;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+
+#hp-bar {
+	/* margin-top: 4px; */
+	/* margin-bottom: 14px; */
+	height: 8px;
+	width: 200px;
+	min-width: 1px;
+	background-color: #ff5978;
+	/* border: 2px solid white; */
 }
 
 #playerHP {
-	font-size: 20px;
-	margin-top: 4px;
+	color: white;
+	font-size: 14px;
+	/* margin-top: 4px; */
+}
+
+#score-parent-div {
+	display: flex;
+	margin-right: 5px;
+}
+
+#time {
+	/* font-size: 20px; */
+	margin-bottom: 8px;
+	margin-left: 6px;
 }
 
 #game-over {

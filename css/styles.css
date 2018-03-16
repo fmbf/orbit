@@ -80,6 +80,7 @@ footer button {
 }
 
 #score-parent-div {
+	position: fixed;
 	display: flex;
 	margin-right: 5px;
 }
@@ -97,6 +98,19 @@ footer button {
 	height: 100%;
 	text-align: center;
 	display: none;
+}
+
+#currentLevel {
+	transition: opacity 1s;
+	position: fixed;
+	font-size: 40px;
+	margin-top: 20px;
+	margin-bottom: 60px;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	/* display: none; */
+	opacity: 0.0;
 }
 
 #retry {

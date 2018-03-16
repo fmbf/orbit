@@ -8,6 +8,17 @@
 	/* awesome! */
 	background: -webkit-linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
 	background: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+
+
+	-webkit-animation: stretch 0s ease infinite;
+	-moz-animation: stretch 0s ease infinite;
+	animation-name: stretch;
+  animation-duration: 40s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
 }
 
 #world {
@@ -20,7 +31,21 @@
 
 
 
+@keyframes stretch {
+  0% {
+    /* background: #001F3F; */
+    /* background: #4e4376; */
 
+		/* background: -webkit-linear-gradient(#2b5876, #4e4376);
+		background: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%); */
+  }
+  100% {
+		/* background: #001123; */
+
+		/* background: -webkit-linear-gradient(#e4e0ba, #f7d9aa);
+		background: linear-gradient(#e4e0ba 0%, #f7d9aa 100%); */
+  }
+}
 
 
 

@@ -15,6 +15,23 @@
     <script type="text/javascript" src="lib/three_util/three.min.js"></script>
     <script type="text/javascript" src="lib/three_util/TweenMax.min.js"></script>
     <script type="text/javascript" src="lib/bundle.js" /></script>
+
+    <script type="text/javascript">
+
+
+      let playing = true;
+
+      function toggleAudio() {
+        if (playing) {
+          document.getElementById("music-player").pause();
+          playing = false;
+        } else {
+          document.getElementById("music-player").play();
+          playing = true;
+        }
+      }
+    </script>
+
   </head>
   <body>
     <div class="game-holder" id="gameHolder">
@@ -56,10 +73,17 @@
 				<div class="navbar">
 					<a href="https://github.com/fmbf/orbit" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 					<a href="https://www.linkedin.com/in/francesco-mbf/" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
+
+
+          <audio id="music-player">
+            <source src="audio/music/x.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
+
 				</div>
-				<!-- <button type="button" name="volume">
+				<button type="button" name="volume" onclick="toggleAudio()">
 					<i class="fas fa-volume-up"></i>
-				</button> -->
+				</button>
 		</footer>
 		</div>
   </body>

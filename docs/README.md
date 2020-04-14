@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WxcfRbfaVLZftv0NF3/giphy.gif">
+  <img src="../public/orbit_demo.gif">
 </p>
 
 <center><strong>Orbit</strong> is a simple sidescroller style game with JavaScript and Three.js graphics. It leads users on a daring space adventure rendered in a beautiful low-poly environment.</center>
